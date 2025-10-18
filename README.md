@@ -1,7 +1,9 @@
 # Kernel Patches for Xiaomi SM8250 (4.19)
 
 > [!WARNING]  
-> These patches are provided for reference and testing purposes only. The author shall not be held responsible for any damage, instability, or incompatibility resulting from their use.
+> These patches are provided for reference and testing purposes only.
+> 
+> The author shall not be held responsible for any damage, instability, or incompatibility resulting from their use.
 
 ## Important
 - These patches have been tested by the author, but **compatibility with every 4.19 kernel source cannot be guaranteed**.  
@@ -12,7 +14,7 @@
 - The patches were tested on the following kernel source: [Prslc-Team/kernel_xiaomi_sm8250](https://github.com/Prslc-Team/kernel_xiaomi_sm8250)  
 
 ## Credits
-- [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 - [Re-Kernel](https://github.com/Sakion-Team/Re-Kernel)  
 - [susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)
+- [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 - [SukiSU Kernel Patch](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch)
