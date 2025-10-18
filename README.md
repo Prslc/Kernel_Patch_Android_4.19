@@ -18,4 +18,3 @@
 - [susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)
 - [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 - [SukiSU-Patch](https://github.com/SukiSU-Ultra/SukiSU_patch)
-- 
