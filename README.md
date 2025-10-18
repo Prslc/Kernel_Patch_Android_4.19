@@ -17,4 +17,5 @@
 - [Re-Kernel](https://github.com/Sakion-Team/Re-Kernel)  
 - [susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)
 - [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-- [SukiSU Kernel Patch](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch)
+- [SukiSU-Patch](https://github.com/SukiSU-Ultra/SukiSU_patch)
+- 
